@@ -1,0 +1,26 @@
+{
+  "online": {
+    "desktop": "https://images-ext-1.discordapp.net/external/5nuotpuDZz0ODf85QHQMtB4FVCL5vSSbKfhhSpPxYRg/%3Fquality%3Dlossless/https/cdn.discordapp.com/emojis/1380457111971954782.png",
+    "mobile": "https://images-ext-1.discordapp.net/external/esg0NA2fiaYn5U6sEpv7dFZCAd9Av7V2r418pNms7oI/%3Fquality%3Dlossless/https/cdn.discordapp.com/emojis/1380457124118925322.png",
+    "web": "https://images-ext-1.discordapp.net/external/DEoJPUraylaRHjCrlQz-yEPhJMea8YY_9JntkguayfE/%3Fquality%3Dlossless/https/cdn.discordapp.com/emojis/1380457134919258144.png"
+  },
+  "idle": {
+    "desktop": "https://images-ext-1.discordapp.net/external/c57ZEUPbbrlhdHBxMTw1gkyqxHb4qLgnX1CNQfoq83c/%3Fquality%3Dlossless/https/cdn.discordapp.com/emojis/1380457016149016626.png",
+    "mobile": "https://images-ext-1.discordapp.net/external/_qvrmrJFebZ2d03hpe4BOALnQEjX01ywIsJlEfN-Zw0/%3Fquality%3Dlossless/https/cdn.discordapp.com/emojis/1380457038689337404.png",
+    "web": "https://images-ext-1.discordapp.net/external/dIFoP7Omo70BTlh57VYcSTChXFPrDoJs8GVEZW8zBDs/%3Fquality%3Dlossless/https/cdn.discordapp.com/emojis/1380457050408091718.png"
+  },
+  "dnd": {
+    "desktop": "https://images-ext-1.discordapp.net/external/f2sJKA445VoBG_7Gf1PipxQ59bkP5Pa6ULNmR3GV-vE/%3Fquality%3Dlossless/https/cdn.discordapp.com/emojis/1380457067596484628.png",
+    "mobile": "https://images-ext-1.discordapp.net/external/0sBmDQVSler3uu_Iaoz_Bsxbm7gR-pSir4x_L8qbLoU/%3Fquality%3Dlossless/https/cdn.discordapp.com/emojis/1380457086873374720.png",
+    "web": "https://images-ext-1.discordapp.net/external/DtbIe_ElMFVXe85vDypgEnaEqls2ZRAdDO8hMPIa8FM/%3Fquality%3Dlossless/https/cdn.discordapp.com/emojis/1380457101297717370.png"
+  },
+  "default_large_image_fallback": "https://i.pinimg.com/736x/9e/04/bc/9e04bc880b3d9df0c03e8f05ee4768c0.jpg",
+  "spotify_prefix": "https://i.scdn.co/image/",
+  "media_prefix": "https://media.discordapp.net/mediakit/",
+  "discord_app_asset_png": "https://cdn.discordapp.com/app-assets/{APP_ID}/{ASSET_ID}.png",
+  "discord_app_asset_gif": "https://cdn.discordapp.com/app-assets/{APP_ID}/{ASSET_ID}.gif",
+  "roblox_special_app": {
+    "app_id": "323229674914815488",
+    "image": "https://tr.rbxcdn.com/6ac3a8db7b5bb02e326e1e87a5179c49/768/432/Image/Png"
+  }
+}
